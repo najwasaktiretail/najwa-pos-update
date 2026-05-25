@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "changelog": "✓ Perbaikan bug shift tidak update expected cash\n✓ Peningkatan keamanan lisensi dengan NTP\n✓ Penambahan fitur stok opname konversi satuan\n✓ Perbaikan UI status bar",
+  "version": "3.0.0",
+  "changelog": "✓ Perbaikan tampilan login\n✓ Peningkatan keamanan lisensi dengan NTP\n✓ Penambahan fitur stok opname konversi satuan\n✓ Perbaikan UI status bar",
   "download_url": "https://github.com/najwasaktiretail/najwa-pos-update/releases/download/v2.1.0/NajwaSaktiPOS.exe"
 }
